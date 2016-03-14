@@ -1,0 +1,8 @@
+
+-- sgfc now displays each move and deletion of stones, one after another.
+
+-- I should now be able to run a script on a directory full of SGF files to 
+1) split out variations.  
+2) create all relevant transformations
+3) pump into the training tool.
+
